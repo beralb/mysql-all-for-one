@@ -1,4 +1,4 @@
-<h1 align="center">MySQL All For One</h1>
+<h1 align="center">MySQL / All For One</h1>
 <h3 align="center">This was a project developed in the back-end module of Web Development Course of <a href=https://www.betrybe.com>Trybe</a></h3>
 
 </br>
